@@ -633,3 +633,4 @@ C:\Users\Kiril\source\repos\TabbedBottom\TabbedBottom\TabbedBottom.Android\obj\D
 C:\Users\Kiril\source\repos\TabbedBottom\TabbedBottom\TabbedBottom.Android\obj\Debug\120\res\drawable\profile.png
 C:\Users\Kiril\source\repos\TabbedBottom\TabbedBottom\TabbedBottom.Android\obj\Debug\120\res\drawable\account.png
 C:\Users\Kiril\source\repos\TabbedBottom\TabbedBottom\TabbedBottom.Android\obj\Debug\120\res\drawable\add.png
+C:\Users\Kiril\source\repos\TabbedBottom\TabbedBottom\TabbedBottom.Android\obj\Debug\120\res\drawable\car.png

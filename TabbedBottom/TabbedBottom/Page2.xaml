@@ -1,12 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<ContentPage
+    BackgroundColor="Black"
+    xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TabbedBottom.Page2">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="123"/>
+        </Grid.ColumnDefinitions>
+        <Button BackgroundColor="#303030" Text="New AD" FontAttributes="Bold" 
+        
+            Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2">
+
+        </Button>
+        <Picker x:Name="picker" SelectedIndexChanged="picker_SelectedIndexChanged">
+            <Picker.Items>
+                <x:String>bmw</x:String>
+                <x:String>toyota</x:String>
+                <x:String>renault</x:String>
+                <x:String>mazda</x:String>
+            </Picker.Items>
+        </Picker>
+
+    </Grid>
+    
 </ContentPage>

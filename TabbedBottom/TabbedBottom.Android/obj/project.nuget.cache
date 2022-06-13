@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SciQgEu2lzdVzmPfUtgOn2kxt7EDLx6hFzzFPrxqu4BebX4Kmi6b2Q8N75EJJV6g15wS0zUydXLuy193vaeqxw==",
+  "dgSpecHash": "y/Fl7KzHOr9zn16sft3NGEDzm3enFDHDcVwdb/XkIJg69lbl/Q0pSO+xV43i58TfEf/P8HnFzKu0GRjJ7Ugj7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kiril\\source\\repos\\TabbedBottom\\TabbedBottom\\TabbedBottom.Android\\TabbedBottom.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Kiril\\.nuget\\packages\\materialdesignthemes\\4.5.0\\materialdesignthemes.4.5.0.nupkg.sha512",
     "C:\\Users\\Kiril\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Kiril\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\Kiril\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",

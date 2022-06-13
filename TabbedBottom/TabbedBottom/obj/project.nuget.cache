@@ -1,14 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "Wm97vlbQF8itmXzovm8g8l/0UpPADR0x2SrevmXTHZn4cHoCJ2GQQtZbAAOXy9y7j5zlyDORuPi/DIRAFWGrDA==",
+  "dgSpecHash": "UHRdyiQsvUpQJHYNTCZbSzeUlDiq7dql0kpjUyOQ4FCJYC82F2DNIMOxxwJH2kMqekZU1ru0SRs+DujR1LA/jg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kiril\\source\\repos\\TabbedBottom\\TabbedBottom\\TabbedBottom\\TabbedBottom.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Kiril\\.nuget\\packages\\materialdesigncolors\\2.0.6\\materialdesigncolors.2.0.6.nupkg.sha512",
+    "C:\\Users\\Kiril\\.nuget\\packages\\materialdesignthemes\\4.5.0\\materialdesignthemes.4.5.0.nupkg.sha512",
     "C:\\Users\\Kiril\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Kiril\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Kiril\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Kiril\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\Kiril\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"MaterialDesignColors 2.0.6\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETStandard,Version=v2.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "MaterialDesignColors",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }

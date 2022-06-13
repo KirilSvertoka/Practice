@@ -17,3 +17,4 @@ C:\Users\Kiril\source\repos\TabbedBottom\TabbedBottom\TabbedBottom\obj\Debug\net
 C:\Users\Kiril\source\repos\TabbedBottom\TabbedBottom\TabbedBottom\obj\Debug\netstandard2.0\Page1.xaml.g.cs
 C:\Users\Kiril\source\repos\TabbedBottom\TabbedBottom\TabbedBottom\obj\Debug\netstandard2.0\Page2.xaml.g.cs
 C:\Users\Kiril\source\repos\TabbedBottom\TabbedBottom\TabbedBottom\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\Kiril\source\repos\TabbedBottom\TabbedBottom\TabbedBottom\obj\Debug\netstandard2.0\Page4.xaml.g.cs

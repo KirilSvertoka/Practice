@@ -15,6 +15,8 @@ namespace TabbedBottom
         public Tabbed()
         {
             InitializeComponent();
+     
         }
+    
     }
 }

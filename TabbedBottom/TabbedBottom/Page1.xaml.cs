@@ -16,5 +16,10 @@ namespace TabbedBottom
         {
             InitializeComponent();
         }
+
+        private async void Button1_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new MainPage());
+        }
     }
 }

@@ -3,11 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:tabbedbottom="clr-namespace:TabbedBottom"
             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
             android:TabbedPage.ToolbarPlacement="Bottom"
-            x:Class="TabbedBottom.Tabbed">
+            x:Class="TabbedBottom.Tabbed"
+            Title="Hello"> 
     
     
   <!--Pages can be added as references or inline-->
+    
     <tabbedbottom:Page1 Title="Home" IconImageSource="home.png"></tabbedbottom:Page1>
     <tabbedbottom:Page2 Title="New" IconImageSource="Add.png"></tabbedbottom:Page2>
-    <tabbedbottom:Page3 Title="User" IconImageSource="account.png"></tabbedbottom:Page3>
+    <tabbedbottom:Page3 Title="Profile" IconImageSource="account.png"></tabbedbottom:Page3>
 </TabbedPage>

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9xjOb1Rx18oJxqQ/f/FEefmiOQ9aijIOFehWGeh8Pv1jq2OeQlkI9xjhGum5tFibjTRw6YUwtAVpnpXCmsUJiw==",
+  "dgSpecHash": "g7uZip5N9o52YZFt4O235z8sK/nkDhGweDzXfD2XSsLcIvzPhQgvZx13j3oObCM2IKlfT8T2oNL/V7VvMWj7jw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kiril\\source\\repos\\TabbedBottom\\TabbedBottom\\TabbedBottom.iOS\\TabbedBottom.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Kiril\\.nuget\\packages\\materialdesignthemes\\4.5.0\\materialdesignthemes.4.5.0.nupkg.sha512",
     "C:\\Users\\Kiril\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Kiril\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\Kiril\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"

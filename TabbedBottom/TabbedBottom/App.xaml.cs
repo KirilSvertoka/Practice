@@ -10,7 +10,7 @@ namespace TabbedBottom
         {
             InitializeComponent();
 
-            MainPage = new Tabbed();
+            MainPage = new NavigationPage(new Tabbed());
         }
 
         protected override void OnStart()
